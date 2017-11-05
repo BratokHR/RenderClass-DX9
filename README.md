@@ -53,4 +53,4 @@ void HookDirect3D()
 ```
 > Все обязательные действия помечены **\***.
 
-Больше информации найдете <https://github.com/BratokHR/RenderClass-DX9/wiki>
+Больше информации найдете [тут](../wiki)
